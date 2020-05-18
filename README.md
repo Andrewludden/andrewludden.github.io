@@ -1,8 +1,3 @@
-<!doctype html>
-<html>
-  <head>
-    <title>Andrews Project</title>
-    <meta charset="UTF-8">
   </head>
   <body style="background-color:#AAA;">
     <div>

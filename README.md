@@ -17,7 +17,7 @@
           <li>discovering new things</li>
         </ul>
       <h3 style="color;lime;"><a href=https://www.instagram.com/andrewludden/?hl></h3>
-        <p>https://www.instagram.com/andrewludden/?hl=en</p>
+        <p>instagram</p>
           <img src="https://s3.amazonaws.com/cstest/mb/2018/12/31FFDD45-95B2-4737-A142-1A9D2C9668E1.jpeg.1024x768_q85.jpg" alt="Andrew Ludden and friends"
     </div>
   </body>

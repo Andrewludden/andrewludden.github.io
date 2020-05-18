@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
   <head>
     <title>Andrews Project</title>
